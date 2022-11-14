@@ -361,7 +361,7 @@ main {
 }
 
 
-@media (min-width: 835px) and (min-height: 640px) {
+@media (min-width: 835px) and (min-height: 430px) {
     #header__search {
         width: 25vw;
     }
